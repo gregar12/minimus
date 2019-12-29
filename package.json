@@ -30,7 +30,10 @@
     "@ngui/auto-complete": "^2.0.0",
     "angularfire-lite": "^6.0.3",
     "firebase": "^5.9.3",
+    "jquery": "^3.4.1",
+    "ngx-slick-carousel": "^0.4.6",
     "rxjs": "~6.4.0",
+    "slick-carousel": "^1.8.1",
     "tslib": "^1.9.0",
     "zone.js": "~0.9.1"
   },
